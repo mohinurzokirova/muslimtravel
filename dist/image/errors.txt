@@ -1,0 +1,7 @@
+[2019-07-02 23:03:41] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-07-02 23:03:41] layer "+ Ko‘proq": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-07-02 23:03:41] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-07-02 23:03:41] layer "info@muslimtravel.uz": Unsupported extension: uz
+[2019-07-02 23:03:44] layer "envelope.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
+[2019-07-02 23:03:44] layer "telegram.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
+[2019-07-02 23:03:45] layer "uzbekistan.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
