@@ -1440,7 +1440,7 @@ footer {
     width: 100% !important;
     height: auto;
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.6);
+    background: none;
     padding: 30px 35px; }
     .slider_one .owl-theme .owl-dots {
       display: block !important;
